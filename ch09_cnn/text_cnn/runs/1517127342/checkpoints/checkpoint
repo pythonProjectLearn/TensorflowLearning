@@ -1,6 +1,0 @@
-model_checkpoint_path: "/home/zt/Documents/Tensorflow_keras_sklearn/tensorflow/ch09_cnn/text_cnn/runs/1517127342/checkpoints/model-75000"
-all_model_checkpoint_paths: "/home/zt/Documents/Tensorflow_keras_sklearn/tensorflow/ch09_cnn/text_cnn/runs/1517127342/checkpoints/model-74600"
-all_model_checkpoint_paths: "/home/zt/Documents/Tensorflow_keras_sklearn/tensorflow/ch09_cnn/text_cnn/runs/1517127342/checkpoints/model-74700"
-all_model_checkpoint_paths: "/home/zt/Documents/Tensorflow_keras_sklearn/tensorflow/ch09_cnn/text_cnn/runs/1517127342/checkpoints/model-74800"
-all_model_checkpoint_paths: "/home/zt/Documents/Tensorflow_keras_sklearn/tensorflow/ch09_cnn/text_cnn/runs/1517127342/checkpoints/model-74900"
-all_model_checkpoint_paths: "/home/zt/Documents/Tensorflow_keras_sklearn/tensorflow/ch09_cnn/text_cnn/runs/1517127342/checkpoints/model-75000"
