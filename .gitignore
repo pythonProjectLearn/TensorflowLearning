@@ -2,5 +2,6 @@
 *.zt
 *.log
 *.temp
+model*
 **/data
 **/model
