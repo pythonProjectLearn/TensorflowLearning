@@ -2,6 +2,10 @@
 *.zt
 *.log
 *.temp
+*.png
+*.pdf
+*.jpeg
+*.jpg
 model*
 **/data
 **/model
