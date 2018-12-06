@@ -1,0 +1,6 @@
+*.pyc
+*.zt
+*.log
+*.temp
+**/data
+**/model
