@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Machine Learning with TensorFlow](http://www.tensorflowbook.com/)
 
 [This](https://github.com/BinRoot/TensorFlow-Book) is the official code repository for [Machine Learning with TensorFlow](http://www.tensorflowbook.com/).
@@ -76,3 +77,7 @@ Get started with machine learning using TensorFlow, Google's latest and greatest
 - **Concept 1**: RankNet
 - **Concept 2**: Image embedding
 - **Concept 3**: Image ranking
+=======
+# TensorflowLearning
+学习tensorflow
+>>>>>>> bb21580daf5bf6da6c2617773561ecde2fffd4e1
